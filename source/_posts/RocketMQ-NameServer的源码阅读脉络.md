@@ -1,7 +1,8 @@
 ---
 title: RocketMQ-NameServer的源码阅读脉络
 date: 2022-05-15 12:00:02
-tags: RocketMQ
+tags:
+  - RocketMQ
 ---
 
 ## 启动大概流程
